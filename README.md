@@ -10,7 +10,5 @@ Technologies
 * Spring Boot 2.4.4
 * JPA
 * H2
-
-In progress
-------
-* Tests
+* JUnit
+* Mockito
