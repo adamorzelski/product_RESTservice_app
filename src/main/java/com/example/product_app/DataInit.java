@@ -15,10 +15,9 @@ import org.springframework.stereotype.Component;
 
 import java.math.BigDecimal;
 
-@Component
+
 public class DataInit {
 
-    @Autowired
     public DataInit(
             ProductRepository productRepository,
             DiscountRepository discountRepository,
